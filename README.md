@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viliammojsky
-- 👀 I’m interested in GS1 standards, barcode scanning and RFID tag reading using JavaScript and PHP. I am also interested in developing apps for Android and Zebra-Android devices using ReactNative.
+- 👀 I’m interested in GS1 standards, ZPL, barcodes, RFID, web and mobile app development.
 
 <!---
 - 🌱 I’m currently learning .

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @viliammojsky
-- 👀 I’m interested in GS1 standards, barcode scanning and RFID tag reading using JavaScript and PHP. I am also interested in developing apps for Android devices using ReactNative. So far I have created apps for Android smartphones and Android Zebra handheld scanners.
-- 🌱 I’m currently learning ReactNative.
+- 👀 I’m interested in GS1 standards, barcode scanning and RFID tag reading using JavaScript and PHP. I am also interested in developing apps for Android and Zebra-Android devices using ReactNative.
 
 <!---
+- 🌱 I’m currently learning .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @viliammojsky
-- 👀 I’m interested in GS1 standards, ZPL, barcodes, RFID, web and mobile app development.
+- 👀 I’m interested in GS1 standards, ZPL, barcodes, RFID, web and mobile app development using ReactNative.
 
 <!---
 - 🌱 I’m currently learning .
